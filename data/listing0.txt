@@ -1,0 +1,14 @@
+1. **Listing 1:**
+   - Neighborhood: Brixton
+   - Price: $225,000
+   - Bedrooms: 1
+   - Bathrooms: 1
+   - House Size: 850 sqft
+
+   **Description:** Step into this cozy 1-bedroom, 1-bathroom home located in the vibrant neighborhood of Brixton. The house features a modern design with an open floor plan, perfect for comfortable living. Enjoy the natural light that fills the space, highlighting the hardwood floors and stylish finishes. The kitchen is equipped with top-of-the-line appliances, making it a chef's dream. Relax in the evenings in the private backyard oasis, ideal for outdoor entertaining or simply unwinding after a long day.
+
+   **Neighborhood Description:** Brixton is a lively neighborhood known for its diverse community and outstanding dining options. From trendy cafes to boutique shops, Brixton offers an array of amenities just steps away. Residents can enjoy the Brixton Market, famous for its fresh produce and artisanal goods. Commuting is convenient with access to public transportation and bike lanes making it easy to navigate the city.
+
+2. **Listing 2:**
+   - Neighborhood: Brixton
+   - Price: $245,

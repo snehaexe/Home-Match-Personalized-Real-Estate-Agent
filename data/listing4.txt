@@ -1,0 +1,15 @@
+Neighborhood: Hammersmith  
+Price: $390,000  
+Bedrooms: 3  
+Bathrooms: 2  
+House Size: 1,450 sqft
+
+Description: Step into this stylish 3-bedroom, 2-bathroom home in the desirable neighborhood of Hammersmith. The property features a modern kitchen with stainless steel appliances and granite countertops, perfect for entertaining guests. The cozy living room offers a warm ambiance with a fireplace and plenty of natural light. Retreat to the spacious master bedroom with an ensuite bathroom for ultimate relaxation. Enjoy the private backyard oasis, ideal for summer BBQs and evening gatherings. This charming home is a perfect blend of comfort and convenience in the heart of Hammersmith.
+
+Neighborhood Description: Hammersmith is a vibrant and family-friendly neighborhood known for its tree-lined streets and community parks. Residents enjoy easy access to local cafes, boutique shops, and farmers' markets. Immerse yourself in the cultural diversity of Hammersmith by exploring art galleries and theaters. With top-rated schools and recreational facilities nearby, Hammersmith is the ideal place to call home.
+
+Neighborhood: Hammersmith  
+Price: $420,000  
+Bedrooms: 4  
+Bathrooms: 3  
+House Size: 1

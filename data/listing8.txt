@@ -1,0 +1,19 @@
+1. 
+Neighborhood: Covent Garden
+Price: $425,000
+Bedrooms: 2
+Bathrooms: 2
+House Size: 1,250 sqft
+
+Description: Step into this elegant 2-bedroom, 2-bathroom sanctuary located in the sought-after Covent Garden neighborhood. This meticulously maintained home features modern finishes throughout, including a gourmet kitchen with stainless steel appliances and granite countertops. The spacious living area opens up to a private balcony, perfect for enjoying your morning coffee or unwinding in the evenings. With its prime location and upscale amenities, this Covent Garden residence offers a luxurious lifestyle in the heart of the city.
+
+Neighborhood Description: Covent Garden is a vibrant urban neighborhood known for its trendy boutiques, fine dining restaurants, and cultural attractions. Stroll along the bustling streets lined with historic architecture, or explore the nearby Covent Garden Market for fresh produce and artisanal goods. Enjoy easy access to theaters, museums, and public transportation, making it a hub for entertainment and convenience.
+
+2. 
+Neighborhood: Covent Garden
+Price: $540,000
+Bedrooms: 3
+Bathrooms: 2.5
+House Size: 1,800 sqft
+
+Description: Welcome to this stunning 3-bedroom, 

@@ -1,0 +1,15 @@
+Neighborhood: Canary Wharf  
+Price: $320,000  
+Bedrooms: 2  
+Bathrooms: 2  
+House Size: 1,250 sqft  
+
+Description: Step into this modern 2-bedroom, 2-bathroom apartment in the vibrant neighborhood of Canary Wharf. This well-appointed unit features a spacious open-plan living area, stylish kitchen with sleek appliances, and a private balcony offering stunning views of the city skyline. The bedrooms are generously sized with ample closet space, and the bathrooms are elegantly designed for a luxurious feel. Enjoy the convenience of nearby shopping, dining, and entertainment options, making this property a perfect urban retreat.
+
+Neighborhood Description: Canary Wharf is a bustling financial district located along the Thames River, known for its iconic skyscrapers, upscale shops, and trendy restaurants. This vibrant area offers easy access to transportation links, including the Jubilee Line and DLR, making commuting a breeze. Residents can explore the scenic waterfront walkways, visit the bustling Canary Wharf Shopping Centre, or unwind at one of the many stylish bars or cafes in the neighborhood.
+
+Neighborhood: Canary Wharf  
+Price: $385,000  
+Bedrooms: 2  
+Bathrooms: 2  
+House Size: 1

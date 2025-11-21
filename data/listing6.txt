@@ -1,0 +1,17 @@
+Neighborhood: Richmond
+Price: $505,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 1,750 sqft
+
+Description: Step into this charming 3-bedroom, 2-bathroom home located in the desirable Richmond neighborhood. The house features a cozy living room, a well-appointed kitchen with stainless steel appliances, and a private backyard perfect for outdoor gatherings. With ample natural light, hardwood floors, and a spacious layout, this home is ideal for a growing family or those looking to downsize without compromising on comfort.
+
+Neighborhood Description: Richmond is a vibrant neighborhood known for its blend of historic charm and modern convenience. Enjoy easy access to local shops, restaurants, and parks. Explore the nearby Richmond Art District or take a leisurely walk along the scenic riverfront. With top-rated schools and a strong sense of community, Richmond offers a welcoming atmosphere for residents of all ages.
+
+Neighborhood: Richmond Estate
+Price: $510,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 1,950 sqft
+
+Description: Welcome to this stunning 4-bedroom, 3-bathroom home in the prestigious Richmond Estate neighborhood. This immaculately maintained property features a spacious living room

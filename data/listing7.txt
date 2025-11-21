@@ -1,0 +1,14 @@
+1. **Listing 1**  
+   - **Neighborhood:** Notting Hill  
+   - **Price:** $650,000  
+   - **Bedrooms:** 4  
+   - **Bathrooms:** 3  
+   - **House Size:** 2025 sqft  
+
+   **Description:** Step into luxury living in the heart of coveted Notting Hill. This stunning 4-bedroom, 3-bathroom home exudes elegance with its modern architecture and high-end finishes. The spacious interior is perfect for entertaining, featuring a gourmet kitchen, a cozy fireplace, and a master suite with a spa-like bathroom. Enjoy the tranquility of the beautifully landscaped backyard, ideal for outdoor gatherings or simply unwinding in the peaceful surroundings. Experience upscale living at its finest in this Notting Hill gem.
+
+   **Neighborhood Description:** Notting Hill is a prestigious neighborhood known for its tree-lined streets, upscale boutiques, and chic cafes. Residents enjoy easy access to the vibrant town center, renowned for its cultural events and world-class dining options. With top-rated schools and lush parks nearby, Notting Hill offers a perfect blend of sophistication and family-friendly amenities.
+
+2. **Listing 2**  
+   - **Neighborhood:** Notting Hill  
+   - **

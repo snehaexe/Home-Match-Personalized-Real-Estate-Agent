@@ -1,0 +1,17 @@
+1. **Neighborhood:** Camden Town
+   **Price:** $295,000
+   **Bedrooms:** 1
+   **Bathrooms:** 1
+   **House Size:** 975 sqft
+
+   **Description:** Step into this stylish 1-bedroom, 1-bathroom condo in the heart of vibrant Camden Town. This modern home features a sleek kitchen with stainless steel appliances, a cozy living area, and a private balcony offering stunning city views. The bedroom boasts ample closet space, and the bathroom is elegantly designed. With hardwood floors throughout, this chic condo is perfect for urban living at its best.
+
+   **Neighborhood Description:** Camden Town is a bustling neighborhood known for its eclectic mix of arts, culture, and entertainment. Enjoy a wide array of trendy shops, cafes, and restaurants along the lively streets. The area also offers convenient access to public transportation, making it easy to explore all that Camden Town has to offer.
+
+2. **Neighborhood:** Camden Town
+   **Price:** $380,000
+   **Bedrooms:** 2
+   **Bathrooms:** 2
+   **House Size:** 1200 sqft
+
+   **Description:** Discover this spacious 2-bedroom, 2-bathroom townhouse

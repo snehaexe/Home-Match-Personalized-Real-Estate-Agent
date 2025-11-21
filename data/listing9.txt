@@ -1,0 +1,17 @@
+Neighborhood: Ealing
+Price: $350,000
+Bedrooms: 2
+Bathrooms: 2
+House Size: 1,150 sqft
+
+Description: Step into this beautifully appointed 2-bedroom, 2-bathroom home located in the desirable neighborhood of Ealing. The meticulously maintained property features an open floor plan with a cozy living area, a modern kitchen with stainless steel appliances, and a spacious master suite. Enjoy your morning coffee on the private patio overlooking the landscaped garden. With its convenient location and move-in ready condition, this home is a must-see for those seeking comfort and style.
+
+Neighborhood Description: Ealing is a charming and family-friendly neighborhood known for its tree-lined streets and vibrant community. Residents enjoy easy access to local cafes, boutique shops, and parks perfect for weekend picnics. The neighborhood is well-connected with public transportation options, making it a convenient choice for commuters. Come experience the peaceful ambiance and warm community spirit of Ealing.
+
+Neighborhood: Ealing
+Price: $380,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 1,300 sqft
+
+Description: Nestled in the heart of Ealing, this 3-bedroom, 2
